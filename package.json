@@ -1,0 +1,11 @@
+{
+  "name": "stepper",
+  "version": "1.0.0",
+  "description": "Stepper class to interact with stepper motors using the onoff module.",
+  "main": "stepper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alice Roherty-Carrier",
+  "license": "ISC"
+}
