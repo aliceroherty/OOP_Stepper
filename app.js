@@ -3,7 +3,7 @@ var Stepper = require('./stepper').Stepper;
 var Cycle = require('./stepper').Cycle;
 
 //New Stepper Motor Object
-var motor = new Stepper(1, 2, 3, 4);
+var motor = new Stepper(18, 23, 24, 25);
 
 //Single Phase
 console.log('Single Phase...');
